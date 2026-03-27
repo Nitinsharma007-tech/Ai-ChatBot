@@ -51,3 +51,29 @@ This chatbot is built on a **mode-based intelligence system**, where the same in
 ---
 
 ## 🏗️ Architecture
+User Input
+↓
+Frontend (Streamlit UI)
+↓
+Mode Selection (Student / Business / Normal)
+↓
+Prompt Engine (modifies input)
+↓
+Gemini API
+↓
+Response Processing
+↓
+Display Output
+
+
+---
+
+## 🧰 Tech Stack
+
+- Python
+- Streamlit
+- Gemini API (Google Generative AI)
+- Pillow (Image Processing)
+
+---
+
